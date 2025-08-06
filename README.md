@@ -68,7 +68,7 @@ To design a compact, cost-effective, and efficient cooling system using Peltier 
 ## 📘 Project Report
 
 For detailed technical explanation, refer to:
-📄 [code for system.pdf)
+![Prototype](syscode.pdf)
 
 ---
 
