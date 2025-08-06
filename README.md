@@ -43,7 +43,7 @@ To design a compact, cost-effective, and efficient cooling system using Peltier 
 
 ## 🖼 Project Images
 
-![Prototype](procom.jpg)
+![Prototype](WhatsApp Image 2025-08-06 at 19.23.10_10586775.jpg)
 
 ---
 
